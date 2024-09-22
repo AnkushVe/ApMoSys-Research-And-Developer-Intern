@@ -22,6 +22,9 @@ Tech stack: Testing Tools , HTML, CSS, JavaScript , DevOps Tools
 &nbsp; 
 
 
-<img width="1054" alt="Screenshot 2024-09-22 at 8 52 11 PM" src="https://github.com/user-attachments/assets/ff0ef457-f335-4bca-af93-f6d4aeb12af8">
-&nbsp; 
+
+
 <img width="1054" alt="Screenshot 2024-09-22 at 8 52 03 PM" src="https://github.com/user-attachments/assets/842f326e-572d-46c2-ae6d-67eccde5f106">
+&nbsp; 
+<img width="1054" alt="Screenshot 2024-09-22 at 8 52 11 PM" src="https://github.com/user-attachments/assets/ff0ef457-f335-4bca-af93-f6d4aeb12af8">
+
